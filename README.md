@@ -1,6 +1,6 @@
 # socDistCheck--YOLOv5
 
-### Categorizing individuals as high or low risk based on their proximity to others :mask:
+### Categorizing individuals as high or low risk based on their proximity to others.
 
 ## Requirements
 
